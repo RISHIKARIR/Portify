@@ -16,6 +16,12 @@ export default function Music(){
       src: '/thenightwemet.mp3',
       albumArt: '/thenightwemet.jpg'
     },
+     {
+      title: 'Little Dark Age',
+      artist: 'MGMT',
+      src: '/littledarkage.mp3',
+      albumArt: '/MGMT.jpg'
+    },
     {
       title: 'The Winner Takes it All',
       artist: 'ABBA',
@@ -46,12 +52,7 @@ export default function Music(){
       src: '/k-spedup.mp3',
       albumArt: '/k-cas.jpg'
     },
-     {
-      title: 'Little Dark Age',
-      artist: 'MGMT',
-      src: '/littledarkage.mp3',
-      albumArt: '/MGMT.jpg'
-    }
+    
   ];
 
   const [currentTrackIndex, setCurrentTrackIndex] = useState(0);

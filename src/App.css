@@ -1,0 +1,42 @@
+
+
+
+.social ::before{
+  content: attr(data-social);
+  position: absolute;
+  margin-left: -1rem;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  padding: 0.1em 0.5em;
+  border-radius: 50px;
+  box-shadow: 0 5px 10px rgba(255, 255, 255,0.05);
+  transform: translateY(-37px) rotate(25deg);
+  opacity: 0; 
+}
+
+.social :hover::before{
+transform: translateY(-37px)
+rotate(0);
+opacity: 1;
+
+}
+.social ::after{
+  position: absolute;
+  height: 0;
+  width: 0;
+  /* border-left:8px;
+  border-right:8px;
+  border-top:10px; */
+  transform: translateY(0px) rotate(25deg);
+  opacity: 0;
+}
+
+
+.social :hover::after
+{
+transform: translateY(-42px) rotate(0);
+opacity: 1;
+}
+
+

@@ -20,7 +20,7 @@ export default function Music(){
       title: 'The Winner Takes it All',
       artist: 'ABBA',
       src: '/winnertakesitall.mp3',
-      albumArt: '/public/whiplash (2014) (1).jpg'
+      albumArt: '/winner.jpg'
     },
     {
       title: 'Beanie',
@@ -32,19 +32,19 @@ export default function Music(){
       title: 'No. 1 Party Anthem',
       artist: 'Arctic Monkeys',
       src: '/no1partyanthem.mp3',
-      albumArt: '/public/AM.jpg'
+      albumArt: '/AM.jpg'
     },
     {
       title: 'Chamber Of Reflection',
       artist: 'Mac DeMarco',
       src: '/chamberofreflection.mp3',
-      albumArt: '/public/cor.jpg'
+      albumArt: '/cor.jpg'
     },
     {
       title: 'K',
       artist: 'Cigerattes After sex',
-      src: '/public/k-spedup.mp3',
-      albumArt: '/public/k-cas.jpg'
+      src: '/k-spedup.mp3',
+      albumArt: '/k-cas.jpg'
     }
   ];
 

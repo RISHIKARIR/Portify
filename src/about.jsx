@@ -18,7 +18,7 @@ import AOS from "aos";
 export default function About(){
 return(
 <>
-<div data-aos="fade-up" className="About-section ml-4 w-70 max-w-screen sm:ml-[20%] mt-10 md:w-4xl sm:overflow-x-hidden">
+<div data-aos="fade-up" className="About-section ml-4 max-w-screen sm:ml-[20%] mt-10 md:w-4xl sm:overflow-x-hidden">
 <h1 className="text-base font-bold md:text-xl font-bold " >
 About</h1>
 

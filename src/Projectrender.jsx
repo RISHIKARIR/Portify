@@ -39,7 +39,7 @@ preview = {Project.preview}
 })}
 
 <div className="h-8 w-max flex self-center mt-4 border p-1 rounded bg-gray-900">
-<button className="cursor-pointer"onClick={(()=>updateshow(!showall))}>{showall ? "Show Less":"Show All"}</button>
+<button className="cursor-pointer flex justify-self-center"onClick={(()=>updateshow(!showall))}>{showall ? "Show Less":"Show All"}</button>
 </div>
 </>
 

@@ -45,6 +45,12 @@ export default function Music(){
       artist: 'Cigerattes After sex',
       src: '/k-spedup.mp3',
       albumArt: '/k-cas.jpg'
+    },
+     {
+      title: 'Little Dark Age',
+      artist: 'MGMT',
+      src: '/littledarkage.mp3',
+      albumArt: '/MGMT.jpg'
     }
   ];
 

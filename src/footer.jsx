@@ -5,11 +5,6 @@ import { FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 
 
-
-
-
-
-
 export default function Footer(){
 
 return(

@@ -143,7 +143,7 @@ export default function Music(){
 <div className="mt-10 font-sans md:text-lg font-semibold ml-4 
 md:ml-[20%] max-w-4xl">
 
-And here a little extra I added just for fun.I built this music player(song paglu)
+And here a little extra I added just for fun.I built this music player(Music paglu)
 While you are exploring my site,
 you can also check out a few tracks of my choice.
 Think of it as a mini playlist Give them a listen and 
@@ -153,7 +153,7 @@ let me know if i have a decent music taste.
 
 
     <div data-aos="fade-up" className=" md:ml-[15%] ml-4 md:max-w-5xl bg-zinc-900 mt-10 text-white p-2 sm:p-4 lg:p-6 flex flex-col items-center justify-center">
-      <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4 sm:mb-6 lg:mb-8 text-center px-4">SONG PAGLU</h1>
+      <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4 sm:mb-6 lg:mb-8 text-center px-4">Music Paglu</h1>
       
       <div className="bg-[url('/public/bgimg.jpg')] bg-cover bg-center rounded-xl p-4 sm:p-6 lg:p-8 w-full max-w-xs sm:max-w-md md:max-w-2xl lg:max-w-4xl xl:max-w-5xl shadow-2xl">
         

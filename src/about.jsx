@@ -22,7 +22,8 @@ return(
 <h1 className="text-base font-bold md:text-xl font-bold " >
 About</h1>
 
-<p className=" font-sans font-normal md:text-lg font-semibold sm:overflow-x-hidden">Hey, I’m Rishi
+<p className=" font-sans font-normal md:text-lg font-semibold sm:overflow-x-hidden">Hey, I’m Parth aka Rishi
+
 I’m an undergraduate student and a front-end developer constantly leveling up by building projects and learning new stuff every day. I’m super into exploring new technologies and keeping up with what’s next in tech.
 Right now,I’ve wrapped up my front-end journey (HTML, CSS, JavaScript, React, Tailwind) and I’m diving into back-end + databases. At the same time, I’m sharpening my problem-solving skills through Data Structures & Algorithms in C++.
 </p>

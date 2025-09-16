@@ -9,11 +9,11 @@ const Projectsdata = [{title:"Portify",
     technologies:["React","Tailwind","Framer-motion"],isRunning:"Running",githubUrl:"Nil"
 },{title:"NGO site UI",
     description:"Built this NGO website for Basti ki Pathshala using HTML, CSS, and JavaScript. Kept it clean and straight to the point with a Home, About, and Volunteer Form section so people can easily check the mission and sign up to help. The whole thing is responsive, minimal, and functional, showing that even with just the basics you can build something polished that actually works.",image:"/Ngo.png",
-    technologies:["HTML","Javascript","CSS","AOS"],isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/Bastikipathshala.git",livelink:"https://ngo-bkp.netlify.app/",preview:"/NGOVIDEO.mp4"
+    technologies:["HTML","Javascript","CSS","AOS"],isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/Bastikipathshala.git",livelink:"https://ngo-bkp.netlify.app/",preview:"/Ngovideo.mp4"
 },{title:"Mausam Vibhag Kendra",description:"Mausam Vibhag Kendra is a React-based weather app that includes icons from Material UI. Toggle between day/night vibes, watch the animated backgrounds change with the weather, and enjoy a smooth, responsive experience that actually looks good on any device.",image:"/Weather-Rainy.jpg",
-    technologies:["React","CSS","Material UI"],isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/Weather-app.git",livelink:"https://mausamvibhagkendra.netlify.app/",preview:"/Weather.mp4"}
+    technologies:["React","CSS","Material UI"],isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/Weather-app.git",livelink:"https://mausamvibhagkendra.netlify.app/",preview:"/Weathervideo.mp4"}
   ,{title:"Spotify UI",description:"Recreated the Spotify vibe with a fully responsive UI using just HTML and CSS. Sleek layouts, smooth hover effects, and attention to detail make it feel like a mini Spotify experience without touching a single line of JavaScript. Looks clean on any screen and fun to explore.",image:"/spotify.jpg",
-    technologies:["HTML","CSS"],isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/SPOTIFY.INTERFACE.git",livelink:"https://spotifyuidemo.netlify.app/",preview:"/SpotifyUi.mp4"}
+    technologies:["HTML","CSS"],isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/SPOTIFY.INTERFACE.git",livelink:"https://spotifyuidemo.netlify.app/",preview:"/spotifyvideo.mp4"}
 ]
 
 const [showall,updateshow] = useState(false);

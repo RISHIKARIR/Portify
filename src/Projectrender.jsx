@@ -17,9 +17,7 @@ const Projectsdata = [{title:"Portify",
 ]
 
 const [showall,updateshow] = useState(false);
-
 let showproject = showall ? Projectsdata : Projectsdata.slice(0,2);
-
 
 return(
 <>

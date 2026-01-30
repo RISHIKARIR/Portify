@@ -19,10 +19,10 @@ export default function About(){
 return(
 <>
 <div data-aos="fade-up" className="About-section ml-4 max-w-screen sm:ml-[20%] mt-10 md:w-4xl sm:overflow-x-hidden">
-<h1 className="text-base font-bold md:text-xl font-bold " >
+<h1 className="text-base font-bold md:text-xl md:font-bold " >
 About</h1>
 
-<p className=" font-sans font-normal md:text-lg font-semibold sm:overflow-x-hidden">Hey, I’m Parth aka Rishi
+<p className=" font-sans font-normal text-left md:text-lg md:font-semibold sm:overflow-x-hidden">Hey, I’m Parth aka Rishi
 
 I’m an undergraduate student and a front-end developer constantly leveling up by building projects and learning new stuff every day. I’m super into exploring new technologies and keeping up with what’s next in tech.
 Right now,I’ve wrapped up my front-end journey (HTML, CSS, JavaScript, React, Tailwind) and I’m diving into back-end + databases. At the same time, I’m sharpening my problem-solving skills through Data Structures & Algorithms in C++.
@@ -49,7 +49,7 @@ Twitter </a></span>
      and freelance projects. If you need someone driven,
      creative, and ready to dive in, I’m here to turn
       your ideas into reality</p>
-      <a href="./Parth cv.pdf" className=" mt-4 border inline-block p-1 rounded hover:bg-gray-700 text-gray-200"><DownloadIcon/>Download resume</a>
+      <a href=".\Parth cvvv.pdf" className=" mt-4 border inline-block p-1 rounded hover:bg-gray-700 text-gray-200"><DownloadIcon/>Download resume</a>
 <a href="mailto:Parthkarir0@gmail.com" className=" m-4 border inline-block p-1 rounded hover:bg-gray-700 text-gray-200">
   <WorkIcon /> Hire me
 </a>

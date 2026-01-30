@@ -17,7 +17,7 @@ export default function Projectdisplay({title,description,image,technologies,isR
 
   return (
     <>
-      <div data-aos="fade-up" className="ml-4 mt-4 md:ml-[20%] max-w-4xl">
+      <div data-aos="fade-up" className="ml-4 mt-4 md:ml-[20%] max-w-4xl p-6">
         
         <div className={`transition-all duration-1000 ease-in-out overflow-hidden ${
           isVideoOpen 
@@ -42,10 +42,10 @@ export default function Projectdisplay({title,description,image,technologies,isR
         </div>
 
         <div 
-          className="card mt-4 w-full max-w-4xl p-6 rounded-lg bg-gray-900 cursor-pointer hover:bg-gray-800 transition-colors duration-200" 
+          className="card  mt-4 w-full max-w-4xl p-6 rounded-lg bg-gray-900 cursor-pointer hover:bg-gray-800 transition-colors duration-200" 
           onClick={() => setIsClick(!isClick)}
         > 
-          <div className="flex flex-col md:flex-row gap-6">  
+          <div className="flex flex-col md:items-center md:flex-row gap-6">  
             <div className="flex-shrink-0">
               <img 
                 src={image} 
@@ -108,7 +108,7 @@ export default function Projectdisplay({title,description,image,technologies,isR
 
 </div>
             
-              <p className="text-sm text-gray-300 md:text-lg ">
+              <p className="text-sm text-gray-300 text-justify md:text-lg ">
                {description}
               </p>
             </div>

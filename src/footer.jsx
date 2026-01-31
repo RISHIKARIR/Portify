@@ -20,7 +20,7 @@ return(
 <span><a className=" hover:text-gray-400" href="https://www.linkedin.com/in/parth-b44295375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FaLinkedin className="inline text-2xl md:text-3xl"/><span className="hidden sm:block">Linkedin</span></a></span>
 <span><a className=" hover:text-gray-400" href="https://leetcode.com/u/Parthkarir/"><SiLeetcode className="inline text-2xl md:text-3xl"/><span className="hidden sm:block">Leetcode</span></a></span>
 </div>
-<p className=" flex justify-self-center ml-4 md:max-w-4xl mt-8 md:mb-16 mb-10">© 2025 Parth. All rights reserved.</p>
+<p className=" flex justify-self-center ml-4 md:max-w-4xl mt-8 md:mb-16 mb-10">© 2026 Parth. All rights reserved.</p>
 </>
 )
 

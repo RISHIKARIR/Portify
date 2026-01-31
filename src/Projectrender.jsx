@@ -5,9 +5,8 @@ import { useState } from "react"
 export default function Projectrender(){
 const Projectsdata = [
     {title:"NutriGenx",description:"NutriGenx is an innovative frontend nutrition planning application that combines the power of artificial intelligence with nutritional science to deliver personalized meal recommendations. In a world where one-size-fits-all diet plans often fail to meet individual needs, NutriGenx stands out by creating custom meal plans that consider your unique body composition, health goals, and dietary preferences.",image:"nill",technologies:["React","Tailwind","AOS","Gemini Api"],
-        isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/NutriGenx.git",livelink:"https://nutrigenx.vercel.app"
+        isRunning:"Running",githubUrl:"https://github.com/RISHIKARIR/NutriGenx.git",livelink:"https://nutrigenx.vercel.app",image:"/Nutrigenximg.jpeg",preview:"/Nutrigenxvideo.mp4"
     },
-    
     
     {title:"Portify",
     description:"Built this React-powered platform using Tailwind CSS, Framer Motion, Material UI, and React Icons to create something that actually represents my style and technical skills.Features smooth animations, responsive design, and interactive elements that make browsing through projects feel engaging rather than like reading a boring resume.And just to make it a little more fun,I've also added a music player with a few tracks of my choice—this is why I call it Portify."
